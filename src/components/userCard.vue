@@ -28,9 +28,9 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .cardUser {
-  width: 225px;
+  width: 230px;
   height: 420px;
   border-radius: 20px;
   text-align: left;
